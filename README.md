@@ -9,6 +9,11 @@
 
 ## 🔧 Featured Projects
 
+## 📱 Apps & Projects
+| Project | Description |
+| ------- | ----------- |
+| [**PlanLyst**](https://github.com/Choochmeque/planlyst.app) | Encrypted cross-platform productivity planner |
+
 ### 🚀 Tauri Plugins
 | Project | Description |
 | ------- | ----------- |
