@@ -26,6 +26,7 @@
 ### 📦 Tools & Libraries
 | Project | Description |
 | ------- | ----------- |
+| [**tauri-macos-xcode**](https://github.com/Choochmeque/tauri-macos-xcode) | Generate Xcode projects for macOS Tauri apps | 
 | [**tauri-apple-extensions**](https://github.com/Choochmeque/tauri-apple-extensions) | iOS extensions support for Tauri apps | 
 | [**diesel_turso**](https://github.com/Choochmeque/diesel_turso) | Diesel ORM backend & async connection for Turso Database |
 | [**msixbundle-rs**](https://github.com/Choochmeque/msixbundle-rs) | Windows MSIX packaging using Rust |
