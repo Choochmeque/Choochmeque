@@ -45,7 +45,7 @@
 ## 📬 Where to Find Me
 
 **LinkedIn:** https://www.linkedin.com/in/vlpankratov  
-**Discord:** @Choochmeque  
+**Discord:** [@Choochmeque](https://discord.com/users/1365296172641816640) 
 *(Feel free to reach out)*
 
 ---
