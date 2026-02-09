@@ -12,6 +12,7 @@
 ## 📱 Apps & Projects
 | Project | Description |
 | ------- | ----------- |
+| [**Axis**](https://github.com/Choochmeque/Axis) | A modern, cross-platform Git GUI |
 | [**PlanLyst**](https://github.com/Choochmeque/planlyst.app) | Encrypted cross-platform productivity planner |
 
 ### 🚀 Tauri Plugins
