@@ -23,6 +23,7 @@
 | [**tauri-plugin-iap**](https://github.com/Choochmeque/tauri-plugin-iap) | In-App Purchases support |
 | [**tauri-plugin-notifications**](https://github.com/Choochmeque/tauri-plugin-notifications) | Cross-platform notifications |
 | [**tauri-plugin-sharekit**](https://github.com/Choochmeque/tauri-plugin-sharekit) | Native share interfaces |
+| [**tauri-plugin-webdriver**](https://github.com/Choochmeque/tauri-plugin-webdriver) | W3C WebDriver implementation for Tauri applications |
 
 ### 📦 Tools & Libraries
 | Project | Description |
@@ -32,6 +33,7 @@
 | [**tauri-windows-bundle**](https://github.com/Choochmeque/tauri-windows-bundle) | Windows MSIX bundling for Tauri apps | 
 | [**diesel_turso**](https://github.com/Choochmeque/diesel_turso) | Diesel ORM backend & async connection for Turso Database |
 | [**msixbundle-rs**](https://github.com/Choochmeque/msixbundle-rs) | Windows MSIX packaging using Rust |
+| [**tauri-webdriver**](https://github.com/Choochmeque/tauri-webdriver) | Cross-platform WebDriver server for Tauri applications (Linux, macOS, Windows) |
 | [**SimpleGoogleSignIn**](https://github.com/Choochmeque/SimpleGoogleSignIn) | Lightweight iOS Google Sign-In |
 
 ---
