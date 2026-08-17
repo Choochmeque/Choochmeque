@@ -40,7 +40,7 @@
 
 ## 🧠 Skills & Technologies
 **Languages:** Rust 🦀, C++, Swift 🍎, Kotlin 🤖, TypeScript, JS  
-**Platforms:** Android, iOS, macOS, Windows  
+**Platforms:** Android, iOS, macOS, Windows, Linux  
 **Focus:** Security, Cross-platform tooling
 
 ---
