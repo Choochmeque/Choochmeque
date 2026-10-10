@@ -8,8 +8,11 @@
 ---
 
 ## 🔧 Featured Projects
+| Project | Description |
+| ------- | ----------- |
+| [**autocxx**](https://github.com/Choochmeque/autocxx) | Safe, ergonomic Rust/C++ interop generated from existing C++ headers. Actively maintained successor to Google's autocxx |
 
-## 📱 Apps & Projects
+### 📱 Apps & Projects
 | Project | Description |
 | ------- | ----------- |
 | [**Axis**](https://github.com/Choochmeque/Axis) | A modern, cross-platform Git GUI |
