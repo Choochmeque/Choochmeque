@@ -10,7 +10,7 @@
 ## 🔧 Featured Projects
 | Project | Description |
 | ------- | ----------- |
-| [**autocxx**](https://github.com/Choochmeque/autocxx) | Safe, ergonomic Rust/C++ interop generated from existing C++ headers. Actively maintained successor to Google's autocxx |
+| [**autocxx**](https://github.com/Choochmeque/autocxx) | Safe, ergonomic Rust/C++ interop generated from existing C++ headers. Actively maintained successor to [Google's autocxx](https://github.com/google/autocxx) |
 
 ### 📱 Apps & Projects
 | Project | Description |
